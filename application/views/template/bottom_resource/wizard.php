@@ -1,0 +1,1 @@
+<script src="<?php echo base_url();?>assets/vendors/jQuery-Smart-Wizard/js/jquery.smartWizard.js"></script>

@@ -1,0 +1,15 @@
+
+[2017-03-01 02:37:28] ::1 user_pn::::: 12345 <<<_ Hapus Hak Akses id (5) operator Sukses. _>>>
+[2017-03-01 02:38:00] ::1 user_pn::::: 12345 <<<_ Ubah User id 1 Sukses. _>>>
+[2017-03-01 02:38:29] ::1 user_pn::::: 12345 <<<_ Ubah User id 5 Sukses. _>>>
+[2017-03-01 02:39:03] ::1 user_pn::::: 12345 <<<_ Ubah User id 6 Sukses. _>>>
+[2017-03-01 04:20:50] ::1 user_pn::::: 12345 <<<_ Tambah SOP Baru dengan id 3 Sukses. _>>>
+[2017-03-01 04:56:40] ::1 user_pn::::: 12345 <<<_ Tambah SPK vendor Baru dengan id 3048 Sukses. _>>>
+[2017-03-01 07:29:50] ::1 user_pn::::: 12345 <<<_ Tambah SPK vendor Baru dengan id 3049 Sukses. _>>>
+[2017-03-01 08:29:53] ::1 user_pn::::: 12345 <<<_ Tambah SPK vendor Baru dengan id 3050 Sukses. _>>>
+[2017-03-01 08:43:09] ::1 user_pn::::: 12345 <<<_ Tambah SPK vendor Baru dengan id 3051 Sukses. _>>>
+[2017-03-01 09:50:31] ::1 user_pn::::: 12345 <<<_ Hapus Vendor id (3050) 131313 Sukses. _>>>
+[2017-03-01 10:05:17] ::1 user_pn::::: 12345 <<<_ Hapus Vendor id (3052) 1213213 Sukses. _>>>
+[2017-03-01 10:11:44] ::1 user_pn::::: 12345 <<<_ Hapus Vendor id (3054) 17898276 Sukses. _>>>
+[2017-03-01 10:16:13] ::1 user_pn::::: 12345 <<<_ Tambah SPK vendor Baru dengan id 3055 Sukses. _>>>
+[2017-03-01 11:04:55] ::1 user_pn::::: 12345 <<<_ Ubah Kontrak Vendor id 3048 Sukses. _>>>
